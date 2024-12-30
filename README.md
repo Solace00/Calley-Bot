@@ -1,3 +1,5 @@
 # Calley Bot
  
-The Bot is still in the process of testing and debugging.
+The Bot for elsword.
+
+Readme (in-progress)
